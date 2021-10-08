@@ -1,0 +1,137 @@
+[
+    {
+      "_id": "614f716444d07c8fdc47f571",
+      "donation": "3913",
+      "picture": "https://charity-images.netlify.app/images/1.jpg",
+      "name": "Bill Gates",
+      "country": "United States",
+      "email": "pettylivingston@softmicro.com",
+      "company": "Microsoft"
+    },
+    {
+      "_id": "614f716400b4ec7293c8895c",
+      "donation": "1935",
+      "picture": "https://charity-images.netlify.app/images/2.jpg",
+      "name": "Warren Buffett",
+      "country": "United States",
+      "email": "baileyochoa@softmicro.com",
+      "company": "Berkshire Hathway"
+    },
+    {
+      "_id": "614f7164acca53e1b35c5713",
+      "donation": "3566",
+      "picture": "https://charity-images.netlify.app/images/3.jpg",
+      "name": "George Soros",
+      "country": "Hungary",
+      "email": "rosarioaguirre@softmicro.com",
+      "company": "Soros Fund Management"
+    },
+    {
+      "_id": "614f716435bbd3abdeb15576",
+      "donation": "2074",
+      "picture": "https://charity-images.netlify.app/images/4.jpg",
+      "name": "Azim Premji",
+      "country": "India",
+      "email": "hodgesowens@softmicro.com",
+      "company": "Wipro Limited"
+    },
+    {
+      "_id": "614f7164cca8356466673e7b",
+      "donation": "3667",
+      "picture": "https://charity-images.netlify.app/images/5.jpg",
+      "name": "Charles Francis Feeney",
+      "country": "United States",
+      "email": "durhamporter@softmicro.com",
+      "company": "Duty-Free Shoppers Group"
+    },
+    {
+      "_id": "614f7164c9366fd020396cd6",
+      "donation": "1912",
+      "picture": "https://charity-images.netlify.app/images/6.jpg",
+      "name": "Gordon Moore",
+      "country": "United States",
+      "email": "winifredmcguire@softmicro.com",
+      "company": "Intel Corporation"
+    },
+    {
+      "_id": "614f71644adceed897793e05",
+      "donation": "3629",
+      "picture": "https://charity-images.netlify.app/images/7.jpg",
+      "name": "Carlos Slim Helú",
+      "country": "Mexico",
+      "email": "newtonmcmillan@softmicro.com",
+      "company": "América Móvil"
+    },
+    {
+      "_id": "614f7164fbda459f609c9d7f",
+      "donation": "1562",
+      "picture": "https://charity-images.netlify.app/images/8.jpg",
+      "name": "Eli Broad",
+      "country": "United States",
+      "email": "marionsexton@softmicro.com",
+      "company": "Edythe Broad Foundation"
+    },
+    {
+      "_id": "614f71645350657b06b57344",
+      "donation": "3851",
+      "picture": "https://charity-images.netlify.app/images/9.jpg",
+      "name": "George Kaiser",
+      "country": "United States",
+      "email": "hillaryclements@softmicro.com",
+      "company": "BOK Financial Corporation"
+    },
+    {
+      "_id": "614f71641a7e19e274b6a9b5",
+      "donation": "1527",
+      "picture": "https://charity-images.netlify.app/images/10.jpg",
+      "name": "Michael Bloomberg",
+      "country": "United States",
+      "email": "marisaevans@softmicro.com",
+      "company": "Bloomberg L.P."
+    },
+    {
+      "_id": "614f716475ca395f31f39b10",
+      "donation": "1058",
+      "picture": "https://charity-images.netlify.app/images/11.jpg",
+      "name": "Paul Allen",
+      "country": "United States",
+      "email": "noracarrillo@softmicro.com",
+      "company": "co-founding Microsoft"
+    },
+    {
+      "_id": "614f7164d9c3f00c279b8e8e",
+      "donation": "2227",
+      "picture": "https://charity-images.netlify.app/images/12.jpg",
+      "name": "Mark Zuckerberg",
+      "country": "United States",
+      "email": "ilapearson@softmicro.com",
+      "company": "Facebook"
+    },
+    {
+      "_id": "614f7164a05c7fadf3bc9192",
+      "donation": "3239",
+      "picture": "https://charity-images.netlify.app/images/13.jpg",
+      "name": "Li Ka-shing",
+      "country": "Hong Kong",
+      "email": "doreenholden@softmicro.com",
+      "company": "Cheung Kong Holdings"
+    },
+    {
+      "_id": "614f716406f0a82dc79aaf22",
+      "donation": "1185",
+      "picture": "https://charity-images.netlify.app/images/14.jpg",
+      "name": "Jon Huntsman Sr.",
+      "country": "United States",
+      "email": "lizamonroe@softmicro.com",
+      "company": "Huntsman Corporation"
+    },
+    {
+      "_id": "614f7164dc8f2f9872ac45a5",
+      "donation": "2328",
+      "picture": "https://charity-images.netlify.app/images/15.jpg",
+      "name": "Ted Turner",
+      "country": "United States",
+      "email": "calliepetersen@softmicro.com",
+      "company": "Cable News Network"
+    }
+  ]
